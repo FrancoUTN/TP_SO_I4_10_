@@ -1,0 +1,15 @@
+Catania Franco
+Lezama Lautaro
+Mahafud Joel
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Azul.
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Amarillo.
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Azul, tuvimos un conflicto y lo solucionamos eligiendo los cambios de la rama TESTING que eran posteriores.
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+El de BETA.
