@@ -13,3 +13,22 @@ Azul, tuvimos un conflicto y lo solucionamos eligiendo los cambios de la rama TE
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 El de BETA.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, Beta y Gamma.
+
+F- ¿Qué problemas surgieron?
+No dejaba hacer el push por un conflicto en las modificaciones.
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Se puede forzar el push para pisar las versiones anteriores con la versión local.
+Se podría realizar un pull antes de cada commit para recibir los cambios de la versión anterior.
+Se podría realizar un Fetch.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Se fuerza el push, pisando cualquier modificación anterior.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Realizar un Pull antes de cada Push
